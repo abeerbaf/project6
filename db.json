@@ -1,12 +1,6 @@
 {
   "posts": [
     {
-      "id": "sVHEaU7",
-      "timestamp": "",
-      "body": "Play Piano at 5pm",
-      "status": "Complete"
-    },
-    {
       "id": "gslikv-j42b-p8lh-rni5y0",
       "timestamp": "2022-7-1 14:10:2",
       "body": "Finish Assignment by today",
@@ -22,12 +16,12 @@
       "id": "wgcupy-t80f-sfoa-jyihz8",
       "timestamp": "2022-7-1 14:0:0",
       "body": "Dancing classes at 4pm\n",
-      "status": "Not complete"
+      "status": "Complete"
     },
     {
       "id": "airfct-4ztx-z0s1-hw9dnv",
-      "timestamp": "2022-7-1 14:10:9",
-      "body": "Cook Pasta for dinner",
+      "timestamp": "2022-7-1 14:19:21",
+      "body": "Cook Pasta for lunch",
       "status": "Not complete"
     }
   ],
